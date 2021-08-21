@@ -1,0 +1,78 @@
+ETF,Country,Region,Fund Weight,Benchmark,Variance +/-,Allocated Weight
+VWRL,United States of America,North America,56.60%,56.60%,0.00%,48.56%
+VWRL,Japan,Pacific,7.20%,7.20%,0.00%,6.18%
+VWRL,China,Emerging Markets,4.70%,4.80%,-0.10%,4.03%
+VWRL,United Kingdom,Europe,4.10%,4.10%,0.00%,3.52%
+VWRL,France,Europe,2.80%,2.80%,0.00%,2.40%
+VWRL,Germany,Europe,2.60%,2.50%,0.10%,2.23%
+VWRL,Switzerland,Europe,2.40%,2.40%,0.00%,2.06%
+VWRL,Canada,North America,2.40%,2.50%,-0.10%,2.06%
+VWRL,Australia,Pacific,2.10%,2.10%,0.00%,1.80%
+VWRL,"Taiwan, Province of China",Emerging Markets,1.80%,1.80%,0.00%,1.54%
+VWRL,South Korea,Pacific,1.70%,1.70%,0.00%,1.46%
+VWRL,India,Emerging Markets,1.40%,1.40%,0.00%,1.20%
+VWRL,Netherlands,Europe,1.20%,1.20%,0.00%,1.03%
+VWRL,Sweden,Europe,1.00%,1.00%,0.00%,0.86%
+VWRL,Hong Kong,Pacific,1.00%,1.00%,0.00%,0.86%
+VWRL,Italy,Europe,0.70%,0.70%,0.00%,0.60%
+VWRL,Spain,Europe,0.60%,0.60%,0.00%,0.51%
+VWRL,Denmark,Europe,0.60%,0.60%,0.00%,0.51%
+VWRL,Brazil,Emerging Markets,0.60%,0.60%,0.00%,0.51%
+VWRL,South Africa,Emerging Markets,0.50%,0.50%,0.00%,0.43%
+VWRL,Saudi Arabia,Emerging Markets,0.40%,0.40%,0.00%,0.34%
+VWRL,Finland,Europe,0.40%,0.40%,0.00%,0.34%
+VWRL,Thailand,Emerging Markets,0.30%,0.30%,0.00%,0.26%
+VWRL,Singapore,Pacific,0.30%,0.30%,0.00%,0.26%
+VWRL,Russian Federation,Emerging Markets,0.30%,0.30%,0.00%,0.26%
+VWRL,Belgium,Europe,0.30%,0.30%,0.00%,0.26%
+VWRL,Norway,Europe,0.20%,0.20%,0.00%,0.17%
+VWRL,Malaysia,Emerging Markets,0.20%,0.20%,0.00%,0.17%
+VWRL,Mexico,Emerging Markets,0.20%,0.20%,0.00%,0.17%
+VWRL,Indonesia,Emerging Markets,0.20%,0.20%,0.00%,0.17%
+VWRL,Qatar,Other,0.10%,0.10%,0.00%,0.09%
+VWRL,Poland,Europe,0.10%,0.10%,0.00%,0.09%
+VWRL,Philippines,Emerging Markets,0.10%,0.10%,0.00%,0.09%
+VWRL,New Zealand,Pacific,0.10%,0.10%,0.00%,0.09%
+VWRL,Kuwait,Other,0.10%,0.10%,0.00%,0.09%
+VWRL,Israel,Middle East,0.10%,0.10%,0.00%,0.09%
+VWRL,Ireland,Europe,0.10%,0.10%,0.00%,0.09%
+VWRL,Chile,Emerging Markets,0.10%,0.10%,0.00%,0.09%
+VWRL,Austria,Europe,0.10%,0.10%,0.00%,0.09%
+VWRL,United Arab Emirates,Emerging Markets,0.10%,0.10%,0.00%,0.09%
+VWRL,Turkey,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Romania,Other,0.00%,0.00%,0.00%,0.00%
+VWRL,Portugal,Europe,0.00%,0.10%,-0.10%,0.00%
+VWRL,Pakistan,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Peru,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Other,Other,0.00%,0.00%,0.00%,0.00%
+VWRL,Hungary,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Greece,Europe,0.00%,0.00%,0.00%,0.00%
+VWRL,Egypt,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Czech Republic,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VWRL,Colombia,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VFEM,China,Emerging Markets,42.10%,42.10%,0.00%,2.99%
+VFEM,"Taiwan, Province of China",Emerging Markets,16.20%,16.20%,0.00%,1.15%
+VFEM,India,Emerging Markets,12.00%,12.00%,0.00%,0.85%
+VFEM,Brazil,Emerging Markets,5.50%,5.50%,0.00%,0.39%
+VFEM,South Africa,Emerging Markets,4.70%,4.70%,0.00%,0.33%
+VFEM,Saudi Arabia,Emerging Markets,3.40%,3.40%,0.00%,0.24%
+VFEM,Russian Federation,Emerging Markets,3.10%,3.10%,0.00%,0.22%
+VFEM,Thailand,Emerging Markets,2.40%,2.40%,0.00%,0.17%
+VFEM,Mexico,Emerging Markets,2.10%,2.10%,0.00%,0.15%
+VFEM,Malaysia,Emerging Markets,1.90%,1.90%,0.00%,0.13%
+VFEM,Indonesia,Emerging Markets,1.40%,1.40%,0.00%,0.10%
+VFEM,Qatar,Other,0.80%,0.90%,-0.10%,0.06%
+VFEM,Philippines,Emerging Markets,0.80%,0.80%,0.00%,0.06%
+VFEM,United Arab Emirates,Emerging Markets,0.80%,0.80%,0.00%,0.06%
+VFEM,Kuwait,Other,0.70%,0.60%,0.10%,0.05%
+VFEM,Chile,Emerging Markets,0.70%,0.70%,0.00%,0.05%
+VFEM,Turkey,Emerging Markets,0.40%,0.40%,0.00%,0.03%
+VFEM,Greece,Europe,0.30%,0.30%,0.00%,0.02%
+VFEM,Hungary,Emerging Markets,0.20%,0.20%,0.00%,0.01%
+VFEM,Colombia,Emerging Markets,0.20%,0.20%,0.00%,0.01%
+VFEM,United States of America,North America,0.10%,0.00%,0.10%,0.01%
+VFEM,Egypt,Emerging Markets,0.10%,0.10%,0.00%,0.01%
+VFEM,Czech Republic,Emerging Markets,0.10%,0.10%,0.00%,0.01%
+VFEM,Romania,Other,0.00%,0.00%,0.00%,0.00%
+VFEM,Pakistan,Emerging Markets,0.00%,0.00%,0.00%,0.00%
+VFEM,Other,Other,0.00%,0.00%,0.00%,0.00%

@@ -1,0 +1,29 @@
+ETF,Sector,Fund,Benchmark,Allocated Weight,Weight +/-
+VWRL,Technology,22.00%,22.00%,0.18876 ,0.00%
+VWRL,Consumer Discretionary,15.80%,15.80%,0.13556 ,0.00%
+VWRL,Financials,14.70%,14.30%,0.12269 ,0.40%
+VWRL,Industrials,13.60%,13.60%,0.11669 ,0.00%
+VWRL,Health Care,11.00%,11.00%,0.09438 ,0.00%
+VWRL,Consumer Staples,6.30%,6.30%,0.05405 ,0.00%
+VWRL,Basic Materials,4.10%,4.10%,0.03518 ,0.00%
+VWRL,Energy,3.60%,3.60%,0.03089 ,0.00%
+VWRL,Telecommunications,3.10%,3.50%,0.03003 ,-0.40%
+VWRL,Utilities,3.00%,3.00%,0.02574 ,0.00%
+VWRL,Real Estate,2.80%,2.80%,0.02402 ,0.00%
+VFEM,Technology,26.00%,26.00%,0.01846 ,0.00%
+VFEM,Financials,20.20%,20.20%,0.01434 ,0.00%
+VFEM,Consumer Discretionary,16.40%,16.40%,0.01164 ,0.00%
+VFEM,Basic Materials,6.80%,6.80%,0.00483 ,0.00%
+VFEM,Energy,6.10%,6.10%,0.00433 ,0.00%
+VFEM,Industrials,6.00%,6.00%,0.00426 ,0.00%
+VFEM,Consumer Staples,5.80%,5.80%,0.00412 ,0.00%
+VFEM,Health Care,4.00%,4.00%,0.00284 ,0.00%
+VFEM,Telecommunications,3.20%,3.20%,0.00227 ,0.00%
+VFEM,Real Estate,3.00%,3.00%,0.00213 ,0.00%
+VFEM,Utilities,2.60%,2.60%,0.00185 ,0.00%
+CMOD,Energy,31.99%,31.99%,0.02271 ,0.00%
+CMOD,Grains,23.16%,23.16%,0.01645 ,0.00%
+CMOD,Precious Metals,16.30%,16.30%,0.01158 ,0.00%
+CMOD,Industrial Metals,15.26%,15.26%,0.01083 ,0.00%
+CMOD,Softs,6.84%,6.84%,0.00486 ,0.00%
+CMOD,Livestock,6.45%,6.45%,0.00458 ,0.00%
