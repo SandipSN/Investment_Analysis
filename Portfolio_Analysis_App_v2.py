@@ -1,20 +1,9 @@
-from os import path
-from folium.folium import Map
-from jinja2.nodes import MarkSafeIfAutoescape
 import streamlit as st
 import pandas as pd
 import base64
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import yfinance as yf
 import plotly.express as px
-import plotly
-import pydeck as pdk
 from streamlit_folium import folium_static 
 import folium
-
-
 
 # Page Layout
 st.set_page_config(layout="wide")
